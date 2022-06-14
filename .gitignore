@@ -1,2 +1,4 @@
 printer-\d+_\d+.cfg
 .DS_Store
+*.bkp
+printer-20*_*.cfg
