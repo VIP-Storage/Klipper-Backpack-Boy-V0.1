@@ -3,3 +3,4 @@ printer-\d+_\d+.cfg
 *.bkp
 printer-20*_*.cfg
 timelapse.cfg
+secrets.ini
