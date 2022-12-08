@@ -1,3 +1,0 @@
-camera="usb"
-camera_usb_options="-r 1920x1080 -f 60 -d /dev/v4l/by-id/usb-SIT_USB2.0_Camera_SIT_USB2.0_Camera-video-index0"
-camera_http_options="-n -p 8081"
